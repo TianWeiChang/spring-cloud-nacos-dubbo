@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring-cloud-consumer" />
         <module name="spring-cloud-nacos-dubbo-provider-api" />
-        <module name="spring-cloud-nacos-dubbo-provide-servie" />
         <module name="spring-cloud-nacos-dubbo-provider-service" />
       </profile>
     </annotationProcessing>
